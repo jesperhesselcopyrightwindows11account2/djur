@@ -1,0 +1,2 @@
+# djur
+internet.ta.ut.alla.djur.ur.datorerna.som.kör.ubuntu.1
